@@ -1,0 +1,21 @@
+html,body{
+  padding: 0;
+  margin: 0;
+  height:100%;
+  width: 100%;
+}
+@media screen and (max-width:1920px ) {
+  html{font-size: 100px;}
+}
+@media screen and (max-width:1600px ) {
+  html{font-size: 83.3px;}
+}
+@media screen and (max-width:1440px ) {
+  html{font-size: 75px;}
+}
+@media screen and (max-width:1366px ) {
+  html{font-size: 71.4px;}
+}
+@media screen and (max-width:1280px ) {
+  html{font-size: 66.6px;}
+}
