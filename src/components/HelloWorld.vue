@@ -110,7 +110,7 @@ export default {
             var peidui = index;
             this.posArr2.forEach((item,Index)=>{
                 if(item.scrollTop==Math.round((this.height*peidui-50)*this.rat)){
-                    alert(999)
+                  
                     console.log('配对')
                    this.random2=Index;
                 }
